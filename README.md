@@ -10,7 +10,7 @@ Třída obsahuje následující metody:
 
 put(self,data): vloží data na začátek
 
-    data se ukládají jako instance třídy Node, která poskytuje ukazatele na okolní instance ve stejné Queue
+- Data se ukládají jako instance třídy Node, která poskytuje ukazatele na okolní instance ve stejné Queue
 
 get(self): vyjme a vrátí první člen
 
