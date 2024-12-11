@@ -8,7 +8,7 @@ Autor: Matěj Mansfeld
 
 Třída obsahuje následující metody:
 
-put(self,data): vloží data na začátek
+put(self,data): vloží data na začátek \n
     data se ukládají jako instance třídy Node, která poskytuje ukazatele na okolní instance ve stejné Queue
 
 get(self): vyjme a vrátí první člen
