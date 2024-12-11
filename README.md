@@ -22,8 +22,8 @@ size(self): vrátí velikost objektu
 
 ## Úpravy
 
-Zlepšení čistelnosti (hlavně lepší segmentace)
+- Zlepšení čistelnosti (hlavně lepší segmentace)
 
-Nahrazení zbytečné while smyčky v metodě put
+- Nahrazení zbytečné while smyčky v metodě put
 
-V metodách empty a full se místo vlastní while smyčky používá metoda size
+- V metodách empty a full se místo vlastní while smyčky používá metoda size
